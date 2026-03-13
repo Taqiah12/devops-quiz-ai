@@ -50,4 +50,4 @@ docker stop quiz-ai && docker rm quiz-ai
 | `DOCKERHUB_TOKEN` | GitHub Secret |
 | `RENDER_DEPLOY_URL` | GitHub Secret |
 
-## done fixing the docker secret
+## done updated the docker secret
