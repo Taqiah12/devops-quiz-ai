@@ -49,3 +49,5 @@ docker stop quiz-ai && docker rm quiz-ai
 | `DOCKERHUB_USERNAME` | GitHub Secret |
 | `DOCKERHUB_TOKEN` | GitHub Secret |
 | `RENDER_DEPLOY_URL` | GitHub Secret |
+
+## done creating docker acc
